@@ -1,3 +1,9 @@
+---
+title: eru-outline
+---
+
+[BACK TO MAIN PAGE](index.md)
+
 # ERU - Module Outline
 
 **Instructor**: Jay Brodeur  
@@ -29,7 +35,20 @@ The module will be delivered using a variety of different modes. All synchronous
   - Synchronous support time with Jay: Meeting on the “General” channel of our Team
   - Synchronous group support time: Meeting in your group’s channel of our Team
 
-![Module Schedule](images/schedule.png "Module Schedule")
+| Date | Time | Details |
+|-------------|-------|-------|
+|Tues, 19-May|4:00 - 6:00 pm|Introductory session (everyone); breakout session (groups)|
+||8:00 - 9:00 pm|Working time with support|
+|Wed, 20-May|4:00 - 5:00 pm|Introduction to day 2; check-ins & updates|
+||5:00 - 6:00 pm|Working time with support|
+||8:00 - 9:00 pm|Group breakout session|
+|Thur, 21-May|4:00 - 6:00 pm|Introduction to day 3; Working time with support|
+||8:00 - 9:00 pm|Working time with support|
+|Fri, 22-May|4:00 - 6:00 pm|Working time with support; Final device presentations|
+||8:00 - 9:00 pm|Extra support time, if required (but probably not)|
+
+
+<!--![Module Schedule](images/schedule.png "Module Schedule") -->
 
 ## Equipment and software required:
 Students will require the following equipment to participate in the course: 
@@ -52,4 +71,4 @@ All deliverables will be compiled in a GitHub repository that you will create fo
 ## Instructor biography:
 In his day job, [Jay Brodeur](https://experts.mcmaster.ca/display/brodeujj) is the Associate Director of Digital Scholarship Services in the McMaster University Library, where he oversees a variety of services that support research and instruction at McMaster. His background is in the Environmental Sciences, and his research interests include climate change, GIS and geomatics, and data management. When he can, Jay also enjoys teaching; he regularly teaches in the iSci program, and has been fortunate to instruct courses in the Faculties of Science, Social Sciences, and Humanities, as well as the Arts & Science Program. 
 
-
+[BACK TO MAIN PAGE](index.md)
