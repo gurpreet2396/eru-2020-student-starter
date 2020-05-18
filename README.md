@@ -1,2 +1,2 @@
-# eru-2020-student-starter
-Materials for initiating student repositories
+# Electronics for the Rest of Us!, INSPIRE 1A03 
+Materials for module.
