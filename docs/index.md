@@ -16,7 +16,7 @@ Inserting an image takes the form:
 See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
 Replace the elements below to insert your picture.
 --> 
-![Picture of my ciricut during the button stage](images/day1.jpeg "This is my Button snap from today!")
+![Picture of my ciricut during the button stage](images/day1.jpg "This is my Button snap from today!")
 
 ## Day 2: Results
 <!--
