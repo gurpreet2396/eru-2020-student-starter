@@ -19,11 +19,11 @@ Replace the elements below to insert your picture.
 ![Picture of my ciricut during the button stage](images/day1.jpg "This is my Button snap from today!")
 
 ## Day 2: Results
-Sketch:
+Sketch:  Day2
 
 Doing the varies exercises for Day 2 was fun. It was great getting to experiment with RBG LED thermometer. There were some challenges, such as putting the wires in the correct places and making sure all wires were stable enough to work. For example, with the colour order I would have issues with the colour order, but then I realized that one of my wires was in the wrong position which caused the problem. After making sure of those things, my device worked well! The temperature was very accurate which was great to see.
 
-- Be sure to link to your code (in your GitHub repository) in the text of your response.
+
 -->
 
 ## Arduino build-off results
