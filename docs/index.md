@@ -1,10 +1,4 @@
 # Exploring Electronics - Gurpreet R.
-<!--
-Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
-A place for each deliverable has been created below for you in this markdown document. 
-Note that comments (such as this) will not appear in the final markdown document (which you can view with the "Preview" button).
--->
-
 
 ## Day 1: Reflection
 
@@ -23,11 +17,8 @@ Sketch:  Day2
 
 Doing the varies exercises for Day 2 was fun. It was great getting to experiment with RBG LED thermometer. There were some challenges, such as putting the wires in the correct places and making sure all wires were stable enough to work. For example, with the colour order I would have issues with the colour order, but then I realized that one of my wires was in the wrong position which caused the problem. After making sure of those things, my device worked well! The temperature was very accurate which was great to see.
 
-
--->
-
 ## Arduino build-off results
-![Picture of my ciricut during the button stage](images/table.jpg "Table of Features!")
+![Table of Features](images/table.jpg "Table of Features!")
 In ~300 words, provide a final device description and product pitch: 
 - What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
 - Describe briefly how it works.
