@@ -15,16 +15,11 @@ Final Product Sketch: https://github.com/gurpreet2396/Final-Product-Sketch.git
 
 ![Table of Features](images/table.jpg "Table of Features!")
 
+This device I had put together, is a small device to help kids learn how to tell temperature and also give kids the opportunity to create different melodies. By adding the code and setting up the equipment, the device will start. 
 
 ![Set-up of Ardunino Board](images/setup.jpg "Set-up for the Final Product!")
-- Describe briefly how it works.
-- How could it be used in everyday life (or maybe just in rare cases)? 
-- Be sure to link to your code (in your GitHub repository) in the text of your response.
-- Include a snippet of code using the ``` ``` characters to display the code properly. 
 
-Finally, record a short (30 second) video of a 'product pitch' for your device. 
-- Upload the video to Youtube, and use the sample code below to embed your video.
--->
+There is RGB led light that changes colours every 3 seconds to bring attention and some fun to the device. There are also two other led lights attached to the breadboard, they are both attached to another element on the board. The green led light is connected to the thermometer, where it is functioned to turn on when it is “too hot.” The temperature is able to be adjusted to determined what is considered to be “too hot” on the device. The blue led light is connected to the buzzer. It lights up when the buzzer plays a note. A melody can be added and can also be controlled by the button. It is meant to be educational to help kids learn how to understand temperature. They can play around with the thermometer and see how the temperature changes. Also playing around with lights and making new melody. They get the chance to express themselves through music and coding. 
 
 ## Final reflection & summary
   It was a fun experience doing this module. I have learned some new tools that I could use later on and it was enjoyable creating different codes. Opened up new ideas and learning opportunities. I have learned coding before from a different software but haven’t done it with an Arduino board. It did make it a bit easier when it came to putting in codes and adjusting the orders. Getting used to the Solderless breadboard was a bit confusing at first but after playing around with it more, I found it very useful. I have heard Github but never really used it. It took a few minutes to get used to it and see how things work. It is a program I will be trying out more. Doing the exercises were great, it was very rewarding once I got the hoped results. What I have found challenging was the final project. Finding a way to incorporate the different elements and adding the codes in, was hard. I had restarted at least 8 times, ended up being very frustrated. Though in the end, I was content with the results. Despite that only challenge, everything else was great and useful. Watching YouTube videoss on different ways people use the Arduino Board, there are a lot of ways to incorporate this in everyday life. I was thinking about purchasing an Arduino board and the other equipment from this package as well, other thinks like sound sensors. Thinking of “installing” sensors around the house, experiment with light and power lamps. There can be lots of possibilities and I am excited to see what I can create when I play with this in my free time!
