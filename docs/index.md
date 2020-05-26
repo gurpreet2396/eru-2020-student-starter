@@ -4,14 +4,6 @@
 
 After completing the first day of this module and getting a chance to go through the varies exercises, I am excited to see what I can learn through the week. I did not have much expectations for this module, so after seeing the kit and learning about the assignments, it seems interesting. I had chosen this module because the name was intriguing. To learn more when it comes to electronics, I thought it would be good to get some skills and learn some new tools that could be beneficial in the future. Also I am more of a kinesthetic learner, so it was nice to know it’s more of a hands on course. Especially during the pandemic, it is not enjoyable to just be sitting on the computer listening to lectures and do readings, so that was also an factor. I have learned about coding in one of my courses before and I really loved it, so when I saw there was coding in this, it was another reason to chose it. I hope to learn more about coding and get familiar with circuits. As well, be able to create small inventions of my own. Also, the skills that could be learned with the programs/software’s, seem to be ones that would be useful in the future, since everything is become more digital. Hoping to have fun in this mini course! 
 
-<!--
-Inserting an image takes the form: 
-![image alt text](url/to/photo "Logo Title Text")
-See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
-Replace the elements below to insert your picture.
---> 
-![Picture of my ciricut during the button stage](images/day1.jpg "This is my Button snap from today!")
-
 ## Day 2: Results
 Sketch:  Day2
 
