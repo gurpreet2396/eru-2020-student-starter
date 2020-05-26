@@ -16,6 +16,7 @@ Final Product Sketch: https://github.com/gurpreet2396/Final-Product-Sketch.git
 ![Table of Features](images/table.jpg "Table of Features!")
 
 
+![Setup])images/setup.jpg "Setup of Final Product!")
 - Describe briefly how it works.
 - How could it be used in everyday life (or maybe just in rare cases)? 
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
