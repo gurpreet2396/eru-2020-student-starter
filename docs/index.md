@@ -27,7 +27,7 @@ Doing the varies exercises for Day 2 was fun. It was great getting to experiment
 -->
 
 ## Arduino build-off results
-
+![Picture of my ciricut during the button stage](images/tables.png "Table of Features!")
 In ~300 words, provide a final device description and product pitch: 
 - What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
 - Describe briefly how it works.
