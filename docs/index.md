@@ -27,47 +27,17 @@ Doing the varies exercises for Day 2 was fun. It was great getting to experiment
 -->
 
 ## Arduino build-off results
-<!--
-Upload your fully-commented Arduino sketch from the final product of your Arduino build-off into the top-level of your module GitHub repository.
+
 In ~300 words, provide a final device description and product pitch: 
 - What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
 - Describe briefly how it works.
 - How could it be used in everyday life (or maybe just in rare cases)? 
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
 - Include a snippet of code using the ``` ``` characters to display the code properly. 
+
 Finally, record a short (30 second) video of a 'product pitch' for your device. 
 - Upload the video to Youtube, and use the sample code below to embed your video.
 -->
 
-
-<!--
-Below is a general markdown table template. 
-You can find more information at these links: 
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
-
--->
-| Feature | Description | Other Notes |
-|---------|-------------|-------------|
-|         |             |             |
-|         |             |             |
-|         |             |             |
-|         |             |             |
-
-
-<!--
-Below is an example of embedding a YouTube video in a markdown document for use in GitHub pages. 
-Note that this video won't show when previewing the document in GitHub--it only works on the GitHub pages webpage. 
-- Once your YouTube video is uploaded, right click and select ```<> Copy embed code```. 
-- You can paste this code directly into your markdown document. 
-- Note that you may want to adjust the width and height parameters to make it fit well in your webpage
--->
-
-<iframe width="789" height="444" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 ## Final reflection & summary
-<!--
-In ~300 words:
-- Summarize your experience in this module. What you learned, what you liked, what you found challenging.
-- Reflect upon your learning and its relevance in your life.
--->
+  It was a fun experience doing this module. I have learned some new tools that I could use later on and it was enjoyable creating different codes. Opened up new ideas and learning opportunities. I have learned coding before from a different software but haven’t done it with an Arduino board. It did make it a bit easier when it came to putting in codes and adjusting the orders. Getting used to the Solderless breadboard was a bit confusing at first but after playing around with it more, I found it very useful. I have heard Github but never really used it. It took a few minutes to get used to it and see how things work. It is a program I will be trying out more. Doing the exercises were great, it was very rewarding once I got the hoped results. What I have found challenging was the final project. Finding a way to incorporate the different elements and adding the codes in, was hard. I had restarted at least 8 times, ended up being very frustrated. Though in the end, I was content with the results. Despite that only challenge, everything else was great and useful. Watching YouTube videoss on different ways people use the Arduino Board, there are a lot of ways to incorporate this in everyday life. I was thinking about purchasing an Arduino board and the other equipment from this package as well, other thinks like sound sensors. Thinking of “installing” sensors around the house, experiment with light and power lamps. There can be lots of possibilities and I am excited to see what I can create when I play with this in my free time!
