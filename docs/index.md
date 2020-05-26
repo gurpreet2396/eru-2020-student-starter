@@ -10,11 +10,12 @@ Day 2 Sketch: https://github.com/gurpreet2396/Day-2-Sketch.git
 Doing the varies exercises for Day 2 was fun. It was great getting to experiment with RBG LED thermometer. There were some challenges, such as putting the wires in the correct places and making sure all wires were stable enough to work. For example, with the colour order I would have issues with the colour order, but then I realized that one of my wires was in the wrong position which caused the problem. After making sure of those things, my device worked well! The temperature was very accurate which was great to see.
 
 ## Arduino build-off results
-![Table of Features](images/table.jpg "Table of Features!")
 
 Final Product Sketch: https://github.com/gurpreet2396/Final-Product-Sketch.git
-In ~300 words, provide a final device description and product pitch: 
-- What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
+
+![Table of Features](images/table.jpg "Table of Features!")
+
+
 - Describe briefly how it works.
 - How could it be used in everyday life (or maybe just in rare cases)? 
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
